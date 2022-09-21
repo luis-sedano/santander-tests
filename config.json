@@ -68,7 +68,7 @@
     },
     {
       "name": "VirtualCard",
-      "enable":  false
+      "enable":  true
     }
   ],
   "versionsAndroid": [
